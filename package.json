@@ -1,0 +1,9 @@
+{
+  "name": "yodo-stremio-2026",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "axios": "^1.7.9"
+  }
+}
